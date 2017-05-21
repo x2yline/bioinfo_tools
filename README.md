@@ -1,7 +1,7 @@
 # bioinfo_tools
 一键完成某项任务的脚本收集
 
-1. kegg富集分析脚本
+### 1. kegg富集分析脚本
 
 必备文件为geneid2symbol, hsa00001.keg, diff_gene.txt(可以为symbo或geneid)
 
