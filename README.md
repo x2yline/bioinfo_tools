@@ -9,8 +9,11 @@
 
 kegg富集结果图如下:![富集结果](https://raw.githubusercontent.com/x2yline/bioinfo_tools/master/kegg/kegg_enrichment_result/enrichment.png)
 参考：
+
 http://www.biotrainee.com/thread-1347-1-1.html
+
 http://www.cs.tau.ac.il/~rshamir/ge/09/scribe/lec14a.pdf
+
 https://guangchuangyu.github.io/cn/2012/04/enrichment-analysis/
 
 ### 2. kegg通路图动画脚本
@@ -20,4 +23,5 @@ https://guangchuangyu.github.io/cn/2012/04/enrichment-analysis/
 通路demo动画图如下:![通路图](https://raw.githubusercontent.com/x2yline/bioinfo_tools/master/kegg_animation/hsa03060.gif)
 
 参考：
+
 https://github.com/ajmazurie/kegg-animate-pathway
