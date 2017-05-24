@@ -7,7 +7,7 @@
 
 放置同一文件夹后一键运行python kegg.py即可产生kegg_enrichment_result文件夹, 含有csv和png文件
 
-kegg富集结果图如下:![富集结果](https://raw.githubusercontent.com/x2yline/bioinfo_tools/master/kegg/kegg_enrichment_result/enrichment.png)
+kegg富集结果图如下:![富集结果](https://raw.githubusercontent.com/x2yline/bioinfo_tools/master/kegg_enrichment/kegg_enrichment_result/enrichment.png)
 参考：
 
 http://www.biotrainee.com/thread-1347-1-1.html
