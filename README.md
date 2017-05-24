@@ -11,7 +11,7 @@ kegg富集结果图如下:![富集结果](https://raw.githubusercontent.com/x2yl
 
 ### 2. kegg通路图动画脚本
 
-输入geneid列表，对应color列表与对应的label列表后可输出通路图，注意label_list可以为None，列表长度相同
+输入通路id与要标注的gene_id列表，对应color列表与对应的label列表后可输出通路图，注意label_list可以为None，列表长度相同
 
 通路demo动画图如下:![通路图](https://raw.githubusercontent.com/x2yline/bioinfo_tools/master/kegg_animation/hsa03060.gif)
 
